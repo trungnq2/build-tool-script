@@ -1,0 +1,3 @@
+import result
+
+result.createTxtFromJSON()

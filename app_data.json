@@ -1,0 +1,34 @@
+{
+    "apps": [
+        {
+            "appid": 12,
+            "name": "Mobile card",
+            "zip": "012.2.20.20171012_001.zip"
+        },
+        {
+            "appid": 17,
+            "name": "Electric billing",
+            "zip": "017.2.20.20171012_001.zip"
+        },
+        {
+            "appid": 18,
+            "name": "Water billing",
+            "zip": "018.2.20.20171012_001.zip"
+        },
+        {
+            "appid": 20,
+            "name": "Internet Billing",
+            "zip": "020.2.20.20171012_001.zip"
+        },
+        {
+            "appid": 21,
+            "name": "TV billing",
+            "zip": "021.2.20.20171012_001.zip"
+        },
+        {
+            "appid": 61,
+            "name": "Topup",
+            "zip": "061.2.20.20171012_001.zip"
+        }
+    ]
+}

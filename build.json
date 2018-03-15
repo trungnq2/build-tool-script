@@ -1,0 +1,38 @@
+{
+  "apps": [
+    {
+      "appid": 17,
+      "name": "Electric billing",
+      "path": "./electricbillingv2"
+    },
+    {
+      "appid": 20,
+      "name": "Internet Billing",
+      "path": "./internetbillingv2"
+    },
+    {
+      "appid": 21,
+      "name": "TV billing",
+      "path": "./tvbillingv2"
+    },
+    {
+      "appid": 18,
+      "name": "Water billing",
+      "path": "./waterbillingv2"
+    },
+    {
+      "appid": 12,
+      "name": "Mobile card",
+      "path": "./mobilecardv2"
+    },
+    {
+      "appid": 61,
+      "name": "Topup",
+      "path": "./mobiletopupv3/src"
+    },
+    {
+      "appid": 5,
+      "name": "Voucher"
+    }
+  ]
+}
